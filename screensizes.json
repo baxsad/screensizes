@@ -1275,6 +1275,354 @@
 					"height": 0
 				}
 			}
+		},
+		"iPhone10,1": {
+			"model": "iPhone 8",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone10,2": {
+			"model": "iPhone 8 Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone10,3": {
+			"model": "iPhone X",
+			"width": 375,
+			"height": 812,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "5.8",
+			"display_type": "OLED",
+			"display_radius": 39,
+			"ppi": 458,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "face",
+			"camera_housing_type": "Wide Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 209,
+					"height": 30
+				},
+				"landscape": {
+					"width": 30,
+					"height": 209
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 44
+				},
+				"landscape": {
+					"width": 812,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 375,
+					"height": 34
+				},
+				"landscape": {
+					"width": 812,
+					"height": 21
+				}
+			}
+		},
+		"iPhone10,4": {
+			"model": "iPhone 8",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone10,5": {
+			"model": "iPhone 8 Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone10,6": {
+			"model": "iPhone X",
+			"width": 375,
+			"height": 812,
+			"shipped_with": "iOS 11",
+			"supported_to": "iOS 16",
+			"display_size": "5.8",
+			"display_type": "OLED",
+			"display_radius": 39,
+			"ppi": 458,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A11 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "face",
+			"camera_housing_type": "Wide Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 209,
+					"height": 30
+				},
+				"landscape": {
+					"width": 30,
+					"height": 209
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 44
+				},
+				"landscape": {
+					"width": 812,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 375,
+					"height": 34
+				},
+				"landscape": {
+					"width": 812,
+					"height": 21
+				}
+			}
 		}
 	}
 }
