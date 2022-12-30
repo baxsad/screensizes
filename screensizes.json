@@ -1043,6 +1043,238 @@
 					"height": 0
 				}
 			}
+		},
+		"iPhone9,1": {
+			"model": "iPhone 7",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 10",
+			"supported_to": "iOS 15",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A10 Fusion",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone9,2": {
+			"model": "iPhone 7 Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 10",
+			"supported_to": "iOS 15",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A10 Fusion",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone9,3": {
+			"model": "iPhone 7",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 10",
+			"supported_to": "iOS 15",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A10 Fusion",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone9,4": {
+			"model": "iPhone 7 Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 10",
+			"supported_to": "iOS 15",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A10 Fusion",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Reader Mode",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
 		}
 	}
 }
