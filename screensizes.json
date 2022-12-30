@@ -753,6 +753,296 @@
 					"height": 0
 				}
 			}
+		},
+		"iPhone7,1": {
+			"model": "iPhone 6 Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 8",
+			"supported_to": "iOS 12",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A8",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone7,2": {
+			"model": "iPhone 6",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 8",
+			"supported_to": "iOS 12",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A8",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone8,1": {
+			"model": "iPhone 6s",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 9",
+			"supported_to": "iOS 15",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A9",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone8,2": {
+			"model": "iPhone 6s Plus",
+			"width": 414,
+			"height": 736,
+			"shipped_with": "iOS 9",
+			"supported_to": "iOS 15",
+			"display_size": "5.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 401,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1300:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "3D Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A9",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 414,
+					"height": 20
+				},
+				"landscape": {
+					"width": 736,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone8,4": {
+			"model": "iPhone SE (1st Gen)",
+			"width": 320,
+			"height": 568,
+			"shipped_with": "iOS 9",
+			"supported_to": "iOS 15",
+			"display_size": "4",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 320,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "600:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Apple A9",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 568,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
 		}
 	}
 }
