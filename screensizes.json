@@ -2319,6 +2319,238 @@
 					"height": 21
 				}
 			}
+		},
+		"iPhone14,4": {
+			"model": "iPhone 13 mini",
+			"width": 375,
+			"height": 812,
+			"shipped_with": "iOS 15",
+			"supported_to": "iOS 16",
+			"display_size": "5.4",
+			"display_type": "OLED",
+			"display_radius": 44,
+			"ppi": 476,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": true,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": false,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 173,
+					"height": 37
+				},
+				"landscape": {
+					"width": 37,
+					"height": 173
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 50
+				},
+				"landscape": {
+					"width": 812,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 375,
+					"height": 34
+				},
+				"landscape": {
+					"width": 812,
+					"height": 21
+				}
+			}
+		},
+		"iPhone14,5": {
+			"model": "iPhone 13",
+			"width": 390,
+			"height": 844,
+			"shipped_with": "iOS 15",
+			"supported_to": "iOS 16",
+			"display_size": "6.1",
+			"display_type": "OLED",
+			"display_radius": 47,
+			"ppi": 460,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": false,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 162,
+					"height": 33
+				},
+				"landscape": {
+					"width": 33,
+					"height": 162
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 390,
+					"height": 47
+				},
+				"landscape": {
+					"width": 844,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 390,
+					"height": 34
+				},
+				"landscape": {
+					"width": 844,
+					"height": 21
+				}
+			}
+		},
+		"iPhone14,2": {
+			"model": "iPhone 13 Pro",
+			"width": 390,
+			"height": 844,
+			"shipped_with": "iOS 15",
+			"supported_to": "iOS 16",
+			"display_size": "6.1",
+			"display_type": "LTPO OLED",
+			"display_radius": 47,
+			"ppi": 460,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": true,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": true,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 162,
+					"height": 33
+				},
+				"landscape": {
+					"width": 33,
+					"height": 162
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 390,
+					"height": 47
+				},
+				"landscape": {
+					"width": 844,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 390,
+					"height": 34
+				},
+				"landscape": {
+					"width": 844,
+					"height": 21
+				}
+			}
+		},
+		"iPhone14,3": {
+			"model": "iPhone 13 Pro Max",
+			"width": 428,
+			"height": 926,
+			"shipped_with": "iOS 15",
+			"supported_to": "iOS 16",
+			"display_size": "6.7",
+			"display_type": "LTPO OLED",
+			"display_radius": 53,
+			"ppi": 458,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": true,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": true,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 162,
+					"height": 33
+				},
+				"landscape": {
+					"width": 33,
+					"height": 162
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 428,
+					"height": 47
+				},
+				"landscape": {
+					"width": 926,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 428,
+					"height": 34
+				},
+				"landscape": {
+					"width": 926,
+					"height": 21
+				}
+			}
 		}
 	}
 }
