@@ -1,0 +1,410 @@
+{
+	"iPhone": {
+		"iPhone1,1": {
+			"model": "iPhone 1G",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 1",
+			"supported_to": "iOS 3",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Samsung RISC ARM 11",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone1,2": {
+			"model": "iPhone 3G",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 2",
+			"supported_to": "iOS 4",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Samsung RISC ARM 11",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone2,1": {
+			"model": "iPhone 3GS",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 3",
+			"supported_to": "iOS 6",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Samsung S5PC100",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone3,1": {
+			"model": "iPhone 4 (GSM)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 4",
+			"supported_to": "iOS 7",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Apple A4",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone3,2": {
+			"model": "iPhone 4",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 4",
+			"supported_to": "iOS 7",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Apple A4",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone3,3": {
+			"model": "iPhone 4 (CDMA)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 4",
+			"supported_to": "iOS 7",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Apple A4",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone4,1": {
+			"model": "iPhone 4s",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 5",
+			"supported_to": "iOS 9",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"larger_text": false,
+			"always_on": false,
+			"processor": "Apple A5",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		}
+	}
+}
