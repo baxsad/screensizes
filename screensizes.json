@@ -2842,5 +2842,4221 @@
 				}
 			}
 		}
+	},
+	"iPad": {
+		"iPad1,1": {
+			"model": "iPad",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 3",
+			"supported_to": "iPadOS 5",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A4",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad1,2": {
+			"model": "iPad 3G",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 3",
+			"supported_to": "iPadOS 5",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A4",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,1": {
+			"model": "iPad (2nd Gen) WiFi",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 4",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,2": {
+			"model": "iPad (2nd Gen) GSM",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 4",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,3": {
+			"model": "iPad (2nd Gen) CDMA",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 4",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,4": {
+			"model": "iPad (2nd Gen) New Revision",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 4",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 132,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,5": {
+			"model": "iPad Mini (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 9",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,6": {
+			"model": "iPad Mini (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 9",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad2,7": {
+			"model": "iPad Mini (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 9",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 163,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "1x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,1": {
+			"model": "iPad (3rd Gen) WiFi",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 5",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,2": {
+			"model": "iPad (3rd Gen) 4G",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 5",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,3": {
+			"model": "iPad (3rd Gen) 4G",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 5",
+			"supported_to": "iPadOS 9",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A5X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,4": {
+			"model": "iPad (4th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 10",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A6X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,5": {
+			"model": "iPad (4th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 10",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A6X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad3,6": {
+			"model": "iPad (4th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 6",
+			"supported_to": "iPadOS 10",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A6X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,1": {
+			"model": "iPad Air (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,2": {
+			"model": "iPad Air (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,3": {
+			"model": "iPad Air (1st Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,4": {
+			"model": "iPad Mini (2nd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,5": {
+			"model": "iPad Mini (2nd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,6": {
+			"model": "iPad Mini (2nd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 7",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "none",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,7": {
+			"model": "iPad Mini (3rd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 8",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,8": {
+			"model": "iPad Mini (3rd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 8",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad4,9": {
+			"model": "iPad Mini (3rd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 8",
+			"supported_to": "iPadOS 12",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A7",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad5,1": {
+			"model": "iPad Mini (4th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 15",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A8",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad5,2": {
+			"model": "iPad Mini (4th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 15",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A8",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad5,3": {
+			"model": "iPad Air (2nd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 8",
+			"supported_to": "iPadOS 15",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A8X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad5,4": {
+			"model": "iPad Air (2nd Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 8",
+			"supported_to": "iPadOS 15",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A8X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,3": {
+			"model": "iPad Pro (9.7 inch)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,4": {
+			"model": "iPad Pro (9.7 inch)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,7": {
+			"model": "iPad Pro (12.9 inch, 1st Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,8": {
+			"model": "iPad Pro (12.9 inch, 1st Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 9",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9X",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,11": {
+			"model": "iPad (5th Gen) Wifi",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad6,12": {
+			"model": "iPad (5th Gen) Cellular",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A9",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "none",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,1": {
+			"model": "iPad Pro (12.9 inch, 2nd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": false,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10X Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,2": {
+			"model": "iPad Pro (12.9 inch, 2nd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": false,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10X Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,3": {
+			"model": "iPad Pro (10.5 inch)",
+			"width": 834,
+			"height": 1112,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10X Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1112,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,4": {
+			"model": "iPad Pro (10.5 inch)",
+			"width": 834,
+			"height": 1112,
+			"shipped_with": "iPadOS 10",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10X Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1112,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,5": {
+			"model": "iPad (6th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 11",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10 Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,6": {
+			"model": "iPad (6th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 11",
+			"supported_to": "iPadOS 16",
+			"display_size": "9.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10 Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,11": {
+			"model": "iPad (7th Gen)",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10 Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad7,12": {
+			"model": "iPad (7th Gen)",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A10 Fusion",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad8,1": {
+			"model": "iPad Pro (11 inch, 1st Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,2": {
+			"model": "iPad Pro (11 inch, 1st Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,3": {
+			"model": "iPad Pro (11 inch, 1st Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,4": {
+			"model": "iPad Pro (11 inch, 1st Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,5": {
+			"model": "iPad Pro (12.9 inch, 3rd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,6": {
+			"model": "iPad Pro (12.9 inch, 3rd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,7": {
+			"model": "iPad Pro (12.9 inch, 3rd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,8": {
+			"model": "iPad Pro (12.9 inch, 3rd Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12X Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,9": {
+			"model": "iPad Pro (11 inch, 2nd Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12Z Bionic",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,10": {
+			"model": "iPad Pro (11 inch, 2nd Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple A12Z Bionic",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,11": {
+			"model": "iPad Pro (12.9 inch, 4th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12Z Bionic",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad8,12": {
+			"model": "iPad Pro (12.9 inch, 4th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 13",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12Z Bionic",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad11,1": {
+			"model": "iPad Mini (5th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad11,2": {
+			"model": "iPad Mini (5th Gen)",
+			"width": 768,
+			"height": 1024,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "7.9",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 768,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1024,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad11,3": {
+			"model": "iPad Air (3rd Gen)",
+			"width": 834,
+			"height": 1112,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1112,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad11,4": {
+			"model": "iPad Air (3rd Gen)",
+			"width": 834,
+			"height": 1112,
+			"shipped_with": "iPadOS 12",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.5",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1112,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad11,6": {
+			"model": "iPad (8th Gen)",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad11,7": {
+			"model": "iPad (8th Gen)",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": false,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A12 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad12,1": {
+			"model": "iPad (9th Gen) Wifi",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A13 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad12,2": {
+			"model": "iPad (9th Gen) Cellular",
+			"width": 810,
+			"height": 1080,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.2",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A13 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1st Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 810,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1080,
+					"height": 20
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPad13,1": {
+			"model": "iPad Air (4th Gen)",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A14 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,2": {
+			"model": "iPad Air (4th Gen)",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A14 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,4": {
+			"model": "iPad Pro (11 inch, 3th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,5": {
+			"model": "iPad Pro (11 inch, 3th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,6": {
+			"model": "iPad Pro (11 inch, 3th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,7": {
+			"model": "iPad Pro (11 inch, 3th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,8": {
+			"model": "iPad Pro (12.9 inch, 5th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,9": {
+			"model": "iPad Pro (12.9 inch, 5th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,10": {
+			"model": "iPad Pro (12.9 inch, 5th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,11": {
+			"model": "iPad Pro (12.9 inch, 5th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 14",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M1",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,16": {
+			"model": "iPad Air (5th Gen) Wifi",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,17": {
+			"model": "iPad Air (5th Gen) Cellular",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M1",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,18": {
+			"model": "iPad (10th Gen)",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 25,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A14 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad13,19": {
+			"model": "iPad (10th Gen)",
+			"width": 820,
+			"height": 1180,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "10.9",
+			"display_type": "LCD",
+			"display_radius": 25,
+			"ppi": 264,
+			"aspect_ratio": "23:16",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "sRGB",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A14 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "1nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 820,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 820,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1180,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,1": {
+			"model": "iPad Mini (6th Gen)",
+			"width": 744,
+			"height": 1133,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "8.3",
+			"display_type": "LCD",
+			"display_radius": 21,
+			"ppi": 326,
+			"aspect_ratio": "6.1:4",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A15 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 744,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1133,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 744,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1133,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,2": {
+			"model": "iPad Mini (6th Gen)",
+			"width": 744,
+			"height": 1133,
+			"shipped_with": "iPadOS 15",
+			"supported_to": "iPadOS 16",
+			"display_size": "8.3",
+			"display_type": "LCD",
+			"display_radius": 21,
+			"ppi": 326,
+			"aspect_ratio": "6.1:4",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": false,
+			"stage_manager": false,
+			"larger_text": false,
+			"more_space": false,
+			"reference_mode": false,
+			"processor": "Apple A15 Bionic",
+			"lidar": false,
+			"nfc": "none",
+			"biometrics": "fingerprint",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": false,
+			"status_bar_size": {
+				"portrait": {
+					"width": 744,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1133,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 744,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1133,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,3-A": {
+			"model": "iPad Pro (11 inch, 4th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,3-B": {
+			"model": "iPad Pro (11 inch, 4th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,4-A": {
+			"model": "iPad Pro (11 inch, 4th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,4-B": {
+			"model": "iPad Pro (11 inch, 4th Gen)",
+			"width": 834,
+			"height": 1194,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "11",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "10:7",
+			"contrast_ratio": "none",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": false,
+			"more_space": true,
+			"reference_mode": false,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 834,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 834,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1194,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,5-A": {
+			"model": "iPad Pro (12.9 inch, 6th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,5-B": {
+			"model": "iPad Pro (12.9 inch, 6th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,6-A": {
+			"model": "iPad Pro (12.9 inch, 6th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		},
+		"iPad14,6-B": {
+			"model": "iPad Pro (12.9 inch, 6th Gen)",
+			"width": 1024,
+			"height": 1366,
+			"shipped_with": "iPadOS 16",
+			"supported_to": "iPadOS 16",
+			"display_size": "12.9",
+			"display_type": "LCD",
+			"display_radius": 18,
+			"ppi": 264,
+			"aspect_ratio": "4:3",
+			"contrast_ratio": "1000000:1",
+			"scale_factor": "2x",
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Long Press",
+			"promotion": true,
+			"stage_manager": true,
+			"larger_text": true,
+			"more_space": true,
+			"reference_mode": true,
+			"processor": "Apple M2",
+			"lidar": true,
+			"nfc": "none",
+			"biometrics": "face",
+			"apple_pencil": "2nd Gen",
+			"pencil_hover": true,
+			"status_bar_size": {
+				"portrait": {
+					"width": 1024,
+					"height": 24
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 24
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 1024,
+					"height": 20
+				},
+				"landscape": {
+					"width": 1366,
+					"height": 20
+				}
+			}
+		}
 	}
 }
