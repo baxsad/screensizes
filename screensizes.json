@@ -2551,6 +2551,296 @@
 					"height": 21
 				}
 			}
+		},
+		"iPhone14,6": {
+			"model": "iPhone SE (3rd Gen)",
+			"width": 375,
+			"height": 667,
+			"shipped_with": "iOS 15",
+			"supported_to": "iOS 16",
+			"display_size": "4.7",
+			"display_type": "LCD",
+			"display_radius": 0,
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "1400:1",
+			"scale_factor": "2x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": false,
+			"screen_press": "Haptic Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": false,
+			"lidar": false,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "fingerprint",
+			"camera_housing_type": "none",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 375,
+					"height": 20
+				},
+				"landscape": {
+					"width": 667,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 0,
+					"height": 0
+				},
+				"landscape": {
+					"width": 0,
+					"height": 0
+				}
+			}
+		},
+		"iPhone14,7": {
+			"model": "iPhone 14",
+			"width": 390,
+			"height": 844,
+			"shipped_with": "iOS 16",
+			"supported_to": "iOS 16",
+			"display_size": "6.1",
+			"display_type": "OLED",
+			"display_radius": 47,
+			"ppi": 460,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": false,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 162,
+					"height": 33
+				},
+				"landscape": {
+					"width": 33,
+					"height": 162
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 390,
+					"height": 47
+				},
+				"landscape": {
+					"width": 844,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 390,
+					"height": 34
+				},
+				"landscape": {
+					"width": 844,
+					"height": 21
+				}
+			}
+		},
+		"iPhone14,8": {
+			"model": "iPhone 14 Plus",
+			"width": 428,
+			"height": 926,
+			"shipped_with": "iOS 16",
+			"supported_to": "iOS 16",
+			"display_size": "6.7",
+			"display_type": "OLED",
+			"display_radius": 53,
+			"ppi": 458,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": false,
+			"larger_text": true,
+			"always_on": false,
+			"processor": "Apple A15 Bionic",
+			"ultra_wideband": true,
+			"lidar": false,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Narrow Notch",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 162,
+					"height": 33
+				},
+				"landscape": {
+					"width": 33,
+					"height": 162
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 428,
+					"height": 47
+				},
+				"landscape": {
+					"width": 926,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 428,
+					"height": 34
+				},
+				"landscape": {
+					"width": 926,
+					"height": 21
+				}
+			}
+		},
+		"iPhone15,2": {
+			"model": "iPhone 14 Pro",
+			"width": 393,
+			"height": 852,
+			"shipped_with": "iOS 16",
+			"supported_to": "iOS 16",
+			"display_size": "6.1",
+			"display_type": "LTPO OLED",
+			"display_radius": 55,
+			"ppi": 460,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": true,
+			"larger_text": true,
+			"always_on": true,
+			"processor": "Apple A16 Bionic",
+			"ultra_wideband": true,
+			"lidar": true,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Dynamic Island",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 125,
+					"height": 37
+				},
+				"landscape": {
+					"width": 37,
+					"height": 125
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 393,
+					"height": 59
+				},
+				"landscape": {
+					"width": 852,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 393,
+					"height": 34
+				},
+				"landscape": {
+					"width": 852,
+					"height": 21
+				}
+			}
+		},
+		"iPhone15,3": {
+			"model": "iPhone 14 Pro Max",
+			"width": 430,
+			"height": 932,
+			"shipped_with": "iOS 16",
+			"supported_to": "iOS 16",
+			"display_size": "6.7",
+			"display_type": "LTPO OLED",
+			"display_radius": 55,
+			"ppi": 460,
+			"aspect_ratio": "19.5:9",
+			"contrast_ratio": "2000000:1",
+			"scale_factor": "3x",
+			"downsampled": false,
+			"true_tone": true,
+			"color_profile": "Display P3",
+			"xdr": true,
+			"screen_press": "Haptic Touch",
+			"promotion": true,
+			"larger_text": true,
+			"always_on": true,
+			"processor": "Apple A16 Bionic",
+			"ultra_wideband": true,
+			"lidar": true,
+			"nfc": "NFC with Tap to Pay",
+			"biometrics": "face",
+			"camera_housing_type": "Dynamic Island",
+			"camera_housing_size": {
+				"portrait": {
+					"width": 125,
+					"height": 37
+				},
+				"landscape": {
+					"width": 37,
+					"height": 125
+				}
+			},
+			"status_bar_size": {
+				"portrait": {
+					"width": 430,
+					"height": 59
+				},
+				"landscape": {
+					"width": 932,
+					"height": 0
+				}
+			},
+			"home_indicator": {
+				"portrait": {
+					"width": 430,
+					"height": 34
+				},
+				"landscape": {
+					"width": 932,
+					"height": 21
+				}
+			}
 		}
 	}
 }
