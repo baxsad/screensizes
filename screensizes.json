@@ -1,7 +1,7 @@
 {
 	"iPhone": {
 		"iPhone1,1": {
-			"model": "iPhone 1G",
+			"model": "iPhone",
 			"width": 320,
 			"height": 480,
 			"shipped_with": "iOS 1",
@@ -175,7 +175,7 @@
 			}
 		},
 		"iPhone3,1": {
-			"model": "iPhone 4 (GSM)",
+			"model": "iPhone 4",
 			"width": 320,
 			"height": 480,
 			"shipped_with": "iOS 4",
@@ -233,7 +233,7 @@
 			}
 		},
 		"iPhone3,2": {
-			"model": "iPhone 4",
+			"model": "iPhone 4 (GSM)",
 			"width": 320,
 			"height": 480,
 			"shipped_with": "iOS 4",
