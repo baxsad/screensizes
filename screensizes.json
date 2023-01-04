@@ -7058,5 +7058,189 @@
 				}
 			}
 		}
+	},
+	"iPod": {
+		"iPod1,1": {
+			"model": "iPod (1st Gen)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 1",
+			"supported_to": "iOS 3",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Samsung S5L8900",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			}
+		},
+		"iPod2,1": {
+			"model": "iPod (2nd Gen)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 2",
+			"supported_to": "iOS 4",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Samsung S5L8720",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			}
+		},
+		"iPod3,1": {
+			"model": "iPod (3rd Gen)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 3",
+			"supported_to": "iOS 5",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"ppi": 163,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "200:1",
+			"scale_factor": "1x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Samsung S5L8922",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			}
+		},
+		"iPod4,1": {
+			"model": "iPod (4th Gen)",
+			"width": 320,
+			"height": 480,
+			"shipped_with": "iOS 4",
+			"supported_to": "iOS 6",
+			"display_size": "3.5",
+			"display_type": "LCD",
+			"ppi": 326,
+			"aspect_ratio": "3:2",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Apple A4",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 480,
+					"height": 0
+				}
+			}
+		},
+		"iPod5,1": {
+			"model": "iPod (5th Gen)",
+			"width": 320,
+			"height": 568,
+			"shipped_with": "iOS 6",
+			"supported_to": "iOS 9",
+			"display_size": "4",
+			"display_type": "LCD",
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Apple A5",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 568,
+					"height": 0
+				}
+			}
+		},
+		"iPod7,1": {
+			"model": "iPod (6th Gen)",
+			"width": 320,
+			"height": 568,
+			"shipped_with": "iOS 8",
+			"supported_to": "iOS 12",
+			"display_size": "4",
+			"display_type": "LCD",
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Apple A8",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 568,
+					"height": 0
+				}
+			}
+		},
+		"iPod9,1": {
+			"model": "iPod (7th Gen)",
+			"width": 320,
+			"height": 568,
+			"shipped_with": "iOS 12",
+			"supported_to": "iOS 15",
+			"display_size": "4",
+			"display_type": "LCD",
+			"ppi": 326,
+			"aspect_ratio": "16:9",
+			"contrast_ratio": "800:1",
+			"scale_factor": "2x",
+			"color_profile": "sRGB",
+			"screen_press": "Long Press",
+			"processor": "Apple A10 Fusion",
+			"status_bar_size": {
+				"portrait": {
+					"width": 320,
+					"height": 20
+				},
+				"landscape": {
+					"width": 568,
+					"height": 0
+				}
+			}
+		}
 	}
 }
